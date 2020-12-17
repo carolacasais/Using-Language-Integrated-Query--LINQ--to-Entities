@@ -1,3 +1,3 @@
 # Using-Language-Integrated-Query--LINQ--to-Entities
 
-![imagen](png1.png)
+![imagen](img1.png)
